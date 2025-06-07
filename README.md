@@ -1,5 +1,7 @@
 # $${\color{red}Welcome \space \color{green}To \space \color{lightblue}Netpractice}$$
 
+^^^ This line only works on PC though(Latex rendering doesn't work on mobile)
+
 <div id="desktop-banner">
 <pre>
 ███╗░░██╗███████╗████████╗██████╗░██████╗░░█████╗░░█████╗░████████╗██╗░█████╗░███████╗
